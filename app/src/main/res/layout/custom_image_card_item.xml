@@ -10,3 +10,4 @@
     app:cardType="infoUnderWithExtra">
 
 </androidx.leanback.widget.ImageCardView>
+    <!-- * -->
