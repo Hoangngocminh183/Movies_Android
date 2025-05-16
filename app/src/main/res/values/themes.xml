@@ -1,0 +1,29 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Television_movies" parent="Theme.Leanback">
+        <!--
+            Bạn có thể tùy chỉnh theme Leanback của mình ở đây.
+            Ví dụ:
+            <item name="browseRowsMarginStart">@dimen/lb_browse_rows_margin_start</item>
+            <item name="browseRowsMarginTop">@dimen/lb_browse_rows_margin_top</item>
+            <item name="defaultBrandColor">@color/fastlane_background</item>
+            <item name="colorPrimary">@color/your_primary_color</item>
+            <item name="colorPrimaryDark">@color/your_primary_dark_color</item>
+            <item name="colorAccent">@color/your_accent_color</item>
+        -->
+    </style>
+
+    <!-- Theme cụ thể cho MainActivity nếu cần, nhưng thường thì theme application là đủ -->
+    <!--
+    <style name="Theme.Television_movies.Main" parent="Theme.Leanback.Browse">
+        <item name="android:windowEnterTransition">@transition/main_activity_enter</item>
+        <item name="android:windowExitTransition">@transition/main_activity_exit</item>
+    </style>
+    -->
+
+    <!-- Theme cho DetailsActivity (nếu bạn không đặt trực tiếp trong manifest) -->
+    <!--
+    <style name="Theme.Television_movies.Details" parent="Theme.Leanback.Details">
+    </style>
+    -->
+</resources>

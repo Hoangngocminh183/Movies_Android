@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Television Movies</string> <!-- Hoặc tên app của bạn -->
+    <string name="browse_title">Movies and Shows</string>
+    <!-- Thêm các string khác nếu cần -->
+</resources>

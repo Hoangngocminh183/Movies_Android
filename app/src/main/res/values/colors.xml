@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color> <!-- Ví dụ, có thể đã có sẵn -->
+    <color name="purple_500">#FF6200EE</color> <!-- Ví dụ -->
+    <color name="purple_700">#FF3700B3</color> <!-- Ví dụ -->
+    <color name="teal_200">#FF03DAC5</color> <!-- Ví dụ -->
+    <color name="teal_700">#FF018786</color> <!-- Ví dụ -->
+    <color name="black">#FF000000</color> <!-- Ví dụ -->
+    <color name="white">#FFFFFFFF</color> <!-- Ví dụ -->
+
+    <color name="fastlane_background">#0096A6</color> <!-- Màu bạn muốn cho header -->
+    <color name="detail_background">#2d2d2d</color> <!-- Từ VideoDetailsFragment -->
+    <color name="detail_actions_background">#4d4d4d</color> <!-- Từ VideoDetailsFragment -->
+    <color name="default_detail_background_color">#1C1C1C</color> <!-- Hoặc màu bạn muốn -->
+</resources>
